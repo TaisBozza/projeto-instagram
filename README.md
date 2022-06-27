@@ -1,3 +1,3 @@
 # Projeto-Instagram:👩‍💻
 
-Desafio de projeto recriação da página Login Instagram da Dio / Santander
+Desafio Projeto Reciação da Página Inicial do Instagram
